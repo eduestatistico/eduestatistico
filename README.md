@@ -16,7 +16,8 @@
 
 
 ##
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduestatistico&bg_color=ed2626&color=000000&line=c2c2c2&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <div> 
   <a href = "mailto:edu.estatistico@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lopeseduardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,5 +25,3 @@
  
 </div>
 
- ![Snake animation](https://github.com/eduestatistico/eduestatistico/blob/output/github-contribution-grid-snake.svg)
- 
