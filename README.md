@@ -1,6 +1,8 @@
 # Olá, coleguinhas!
 
 - 📊 Trabalhando em novas análises!
+- 💻 Explorando cada vez mais linguagens de análises de dados :)
+- 🍕 Eu amo pizza :p
 
   <a href="https://github.com/eduestatistico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduestatistico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
